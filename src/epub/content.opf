@@ -46,7 +46,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4706</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.97536</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The scans are a slightly later and unexpurgated version of the Gutenberg transcript, and this production tries to follow then. The most notable change is the addition of part 1 chapter 5 (missing in Gutenberg’s transcript) but there are more reinstated songs and other pieces of text.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Pit</meta>
