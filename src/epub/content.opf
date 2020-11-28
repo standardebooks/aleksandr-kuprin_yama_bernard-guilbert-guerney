@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aleksandr-kuprin/the-pit/bernard-guilbert-guerney</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aleksandr-kuprin/yama/bernard-guilbert-guerney</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Pit</dc:title>
-		<meta property="file-as" refines="#title">Pit, The</meta>
+		<dc:title id="title">Yama</dc:title>
+		<meta property="file-as" refines="#title">Yama</meta>
 		<dc:subject id="subject-1">Russia -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Prostitutes -- Russia -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Russian fiction -- Translations into English</dc:subject>
@@ -49,8 +49,8 @@
 		<meta property="se:production-notes">The scans are a slightly later and unexpurgated version of the Gutenberg transcript, and this production tries to follow then. The most notable change is the addition of part 1 chapter 5 (missing in Gutenberg’s transcript) but there are more reinstated songs and other pieces of text.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Pit</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_the-pit_bernard-guilbert-guerney</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Yama:_The_Pit</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_yama_bernard-guilbert-guerney</meta>
 		<dc:creator id="author">Aleksandr Kuprin</dc:creator>
 		<meta property="file-as" refines="#author">Kuprin, Aleksandr</meta>
 		<meta property="se:name.person.full-name" refines="#author">Aleksandr Ivanovich Kuprin</meta>
