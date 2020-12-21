@@ -39,14 +39,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An account of the lives of a group of prostitutes in a brothel in southern Russia.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i lang="ru"&gt;Yama&lt;/i&gt; (&lt;i&gt;The Pit&lt;/i&gt;) recounts the lives of a group of prostitutes, living and working in Anna Markovna’s brothel in the town of K⁠⸺. The women, subject to effective slavery through the removal of their papers and onerous debts, act out a scene of easy affability every evening for the part ignorant, part monstrous clients, while keeping secret their own pasts and wished-for futures.&lt;/p&gt;
+			&lt;p&gt;The book was &lt;a href="https://standardebooks.org/ebooks/aleksandr-kuprin"&gt;Kuprin&lt;/a&gt;’s attempt to denormalise the cultural ambiguity to the legal brothels of the time. His dedication of &lt;i lang="ru"&gt;Yama&lt;/i&gt; to “mothers and youths” expressed his desire that there should no longer be a silent acceptance of the actions of the “fathers, husbands, and brothers.” The novel was notable for portraying the inhabitants of the brothels as living, breathing people with their own hopes and desires, not purely as a plot point or scenario.&lt;/p&gt;
+			&lt;p&gt;The critical response was mixed: many found the subject matter beyond the pale. Kuprin himself placed his hopes on a favourable review from &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; which didn’t come, but there was praise for &lt;i lang="ru"&gt;Yama&lt;/i&gt; as both social commentary and a warning, and an appreciation for Kuprin’s attempt to detail the everyday lives of his subjects.&lt;/p&gt;
+			&lt;p&gt;The novel had a troubled genesis, with the first part taking nine years between initial proposal and first publication; the second and third parts followed five years later. It was a victim of the Russian censors who, tellingly, disapproved more of scenes involving officials visiting the brothels, than the brothels themselves. It was only later during preparations for an anthology of his work that an uncensored version was allowed to be released. This edition is based on the translation to English by Bernard Guilbert Guerney of that version, and was first published in 1922.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4706</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.97536</dc:source>
-		<meta property="se:production-notes">The scans are a slightly later and unexpurgated version of the Gutenberg transcript, and this production tries to follow then. The most notable change is the addition of part 1 chapter 5 (missing in Gutenberg’s transcript) but there are more reinstated songs and other pieces of text.</meta>
+		<meta property="se:production-notes">The scans are a slightly later and unexpurgated version of the Gutenberg transcript, and this production tries to follow then. The most notable change is the addition of part 1 chapter 5 (missing in Gutenberg’s transcript) but there are more reinstated songs and other pieces of text, along with many updated words and phrases.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Yama:_The_Pit</meta>
