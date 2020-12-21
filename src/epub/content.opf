@@ -57,6 +57,7 @@
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Алекса́ндр Ива́нович Купри́н</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Aleksandr_Kuprin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50058266</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aft</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="translator">Bernard Guilbert Guerney</dc:contributor>

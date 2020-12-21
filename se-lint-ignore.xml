@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2-12.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Question mark is part of the book’s title.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-7.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Trailing dash on a prefix to a group with a shared suffix.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
