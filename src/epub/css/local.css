@@ -100,7 +100,7 @@ section[epub|type~="dedication"] > footer{
 }
 
 section[epub|type~="dedication"] h2{
-	margin-bottom: 4rem;
+	margin-bottom: 4em;
 }
 
 [epub|type~="z3998:signature"]{
