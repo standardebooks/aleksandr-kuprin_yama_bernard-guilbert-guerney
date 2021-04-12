@@ -7,10 +7,11 @@ footer{
 }
 
 figure{
-	margin: 1em;
-	text-align: center;
 	border: 2px solid;
-	padding: 1em 1.5em;
+	break-inside: avoid;
+	margin: 1em auto;
+	padding: 1em;
+	text-align: center;
 }
 
 figure img{
