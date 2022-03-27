@@ -12,4 +12,10 @@
 			<reason>Trailing dash on a prefix to a group with a shared suffix.</reason>
 		</ignore>
 	</file>
+	<file path="introduction.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>The quotes are part of the short story's name, but the comma is not.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
