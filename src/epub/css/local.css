@@ -9,7 +9,7 @@ footer{
 figure{
 	border: 2px solid;
 	break-inside: avoid;
-	margin: 1em auto;
+	margin: 1em 40px;
 	padding: 1em;
 	text-align: center;
 }
