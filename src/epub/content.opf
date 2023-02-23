@@ -74,7 +74,6 @@
 		<dc:contributor id="translator">Bernard Guilbert Guerney</dc:contributor>
 		<meta property="file-as" refines="#translator">Guerney, Bernard Guilbert</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n83227336</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
