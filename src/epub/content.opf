@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4706</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.97536</dc:source>
 		<meta property="se:production-notes">The scans are a slightly later and unexpurgated version of the Gutenberg transcript, and this production tries to follow them. The most notable change is the addition of part 1 chapter 5 (missing in Gutenberg’s transcript) but there are more reinstated songs and other pieces of text, along with many updated words and phrases.</meta>
-		<meta property="se:word-count">131887</meta>
+		<meta property="se:word-count">131892</meta>
 		<meta property="se:reading-ease.flesch">61.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Yama:_The_Pit</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_yama_bernard-guilbert-guerney</meta>
