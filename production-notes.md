@@ -1,0 +1,1 @@
+The scans are a slightly later and unexpurgated version of the Gutenberg transcript, and this production tries to follow them. The most notable change is the addition of part 1 chapter 5 (missing in Gutenberg’s transcript) but there are more reinstated songs and other pieces of text, along with many updated words and phrases.
