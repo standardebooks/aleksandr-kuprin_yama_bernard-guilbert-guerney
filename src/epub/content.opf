@@ -37,7 +37,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Yama: The Pit</dc:title>
 		<meta property="file-as" refines="#fulltitle">Yama</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Russia -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Prostitutes -- Russia -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Russian fiction -- Translations into English</dc:subject>
