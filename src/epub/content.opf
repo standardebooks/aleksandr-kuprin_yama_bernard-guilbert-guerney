@@ -48,7 +48,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An account of the lives of a group of prostitutes in a brothel in southern Russia.</dc:abstract>
+		<meta property="schema:abstract">An account of the lives of a group of prostitutes in a brothel in southern Russia.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i lang="ru"&gt;Yama&lt;/i&gt; (&lt;i&gt;The Pit&lt;/i&gt;) recounts the lives of a group of prostitutes living and working in Anna Markovna’s brothel in the town of K⸺. The women, subject to effective slavery through the removal of their papers and onerous debts, act out a scene of easy affability every evening for the part ignorant, part monstrous clients, while keeping secret their own pasts and wished-for futures.&lt;/p&gt;
 			&lt;p&gt;The book was &lt;a href="https://standardebooks.org/ebooks/aleksandr-kuprin"&gt;Kuprin’s&lt;/a&gt; attempt to denormalize the cultural ambiguity of the legal brothels of the time. His dedication—“to mothers and youths”—expresses his desire that there should no longer be a silent acceptance of the actions of the “fathers, husbands, and brothers.” The novel was notable for portraying the inhabitants of the brothels as living, breathing people with their own hopes and desires, not purely as a plot point or scenario.&lt;/p&gt;
