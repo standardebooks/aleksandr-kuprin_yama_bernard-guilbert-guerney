@@ -68,7 +68,7 @@
 		<meta property="file-as" refines="#author">Kuprin, Aleksandr</meta>
 		<meta property="schema:alternateName" refines="#author">Aleksandr Ivanovich Kuprin</meta>
 		<meta property="alternate-script" refines="#author">Алекса́ндр Ива́нович Купри́н</meta>
-		<link href="https://en.wikipedia.org/wiki/Aleksandr_Kuprin" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Aleksandr_I._Kuprin" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50058266.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
